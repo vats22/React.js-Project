@@ -9,7 +9,7 @@ class App extends Component {
       <div className="App">
       <Navbar dark color='primary'>
       <div className='container'>
-        <NavbarBrand href='/'>ristornet con fusion</NavbarBrand>
+        <NavbarBrand href='/'>Ristornet con fusion</NavbarBrand>
       </div>
       </Navbar>
 
