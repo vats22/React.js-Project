@@ -8,7 +8,7 @@ function  RenderDish({dish}) {
           <CardBody>
               <CardTitle>{dish.name}</CardTitle>
               <CardText>{dish.description}</CardText>
-          </CardBody>
+          </CardBody> 
       </Card>
   );
 }
