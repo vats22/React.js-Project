@@ -23,7 +23,7 @@ function About(props) {
                     <p>{leader.description}</p>
                   </Media>
                 </Media>
-              </div>
+            </div>
         );
     }
 

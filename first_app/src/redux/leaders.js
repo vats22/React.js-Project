@@ -1,4 +1,4 @@
-import { LEADERS } from '../shred/Leaders';
+import { LEADERS } from '../shared/Leaders';
 
 
 export const Leaders = (state = LEADERS, action) => {
